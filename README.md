@@ -1,2 +1,2 @@
 # git-demo
-this is for demo purpose of git
+this is for demo purpose of git tool
